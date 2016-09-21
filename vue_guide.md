@@ -1,5 +1,5 @@
-# Vue :construction: [WIP] (从内网fork， author： crossjs)
-
+# Vue :construction: [WIP]     
+ 从内网fork， author： crossjs
 ## 目录
 
 1. [优先使用 ES6/7 语法](#%E4%BC%98%E5%85%88%E4%BD%BF%E7%94%A8-es-67-%E8%AF%AD%E6%B3%95)
